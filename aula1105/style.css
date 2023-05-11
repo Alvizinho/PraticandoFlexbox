@@ -1,0 +1,5 @@
+.container{
+    display:flex;
+    /*Valores possíveis principais (row/row-reverse/column/column-reverse)*/
+    justify-content:space-around;
+}
